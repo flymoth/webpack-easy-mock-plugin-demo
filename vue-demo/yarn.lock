@@ -5940,9 +5940,9 @@ path-key@^3.0.0, path-key@^3.1.0:
   integrity sha1-WB9q3mWMu6ZaDTOA3ndTKVBU83U=
 
 path-parse@^1.0.6:
-  version "1.0.6"
-  resolved "https://registry.npm.taobao.org/path-parse/download/path-parse-1.0.6.tgz#d62dbb5679405d72c4737ec58600e9ddcf06d24c"
-  integrity sha1-1i27VnlAXXLEc37FhgDp3c8G0kw=
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.7.tgz#fbc114b60ca42b30d9daf5858e4bd68bbedb6735"
+  integrity sha512-LDJzPVEEEPR+y48z93A0Ed0yXb8pAByGWo/k5YYdYgpY2/2EsOsksJrq7lOHxryrVOn1ejG6oAp8ahvOIQD8sw==
 
 path-to-regexp@0.1.7:
   version "0.1.7"
@@ -8186,10 +8186,10 @@ webpack-dev-server@^3.10.3:
     ws "^6.2.1"
     yargs "12.0.5"
 
-webpack-easy-mock-plugin@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.npmjs.org/webpack-easy-mock-plugin/-/webpack-easy-mock-plugin-1.0.0.tgz#4b51ad5fc4f041060af624f4b54fbbc910d6cbbd"
-  integrity sha512-bb1ONG92z+DjaOU6T53sSjiHTycgB2WXTDkm43QNer7mD0N6/dpvlJpbUsWAg9e+mMOoqmEMltkI6f4TA15EQg==
+webpack-easy-mock-plugin@^1.0.4:
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/webpack-easy-mock-plugin/-/webpack-easy-mock-plugin-1.0.6.tgz#04ef96aab51eaa61f9f65d4971aa69342f9cdb45"
+  integrity sha512-bhhJ8No+vIxsFwi7q6LpyC9/ULWLADZWDxS2LRttQPKJbgOmRQypFyCC45rcvrGOE6n4GZE2YUzpIcOr9RlEdA==
   dependencies:
     koa "^2.11.0"
     koa-router "^8.0.8"

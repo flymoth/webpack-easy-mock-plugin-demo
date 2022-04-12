@@ -7904,9 +7904,9 @@ uri-js@^4.2.2:
     punycode "^2.1.0"
 
 urijs@^1.19.2:
-  version "1.19.2"
-  resolved "https://registry.npm.taobao.org/urijs/download/urijs-1.19.2.tgz#f9be09f00c4c5134b7cb3cf475c1dd394526265a"
-  integrity sha1-+b4J8AxMUTS3yzz0dcHdOUUmJlo=
+  version "1.19.11"
+  resolved "https://registry.yarnpkg.com/urijs/-/urijs-1.19.11.tgz#204b0d6b605ae80bea54bea39280cdb7c9f923cc"
+  integrity sha512-HXgFDgDommxn5/bIv0cnQZsPhHDA90NPHD6+c/v21U5+Sx5hoP8+dP9IZXBU1gIfvdRfhG8cel9QNPeionfcCQ==
 
 urix@^0.1.0:
   version "0.1.0"
@@ -8186,10 +8186,10 @@ webpack-dev-server@^3.10.3:
     ws "^6.2.1"
     yargs "12.0.5"
 
-webpack-easy-mock-plugin@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.npmjs.org/webpack-easy-mock-plugin/-/webpack-easy-mock-plugin-1.0.0.tgz#4b51ad5fc4f041060af624f4b54fbbc910d6cbbd"
-  integrity sha512-bb1ONG92z+DjaOU6T53sSjiHTycgB2WXTDkm43QNer7mD0N6/dpvlJpbUsWAg9e+mMOoqmEMltkI6f4TA15EQg==
+webpack-easy-mock-plugin@^1.0.4:
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/webpack-easy-mock-plugin/-/webpack-easy-mock-plugin-1.0.6.tgz#04ef96aab51eaa61f9f65d4971aa69342f9cdb45"
+  integrity sha512-bhhJ8No+vIxsFwi7q6LpyC9/ULWLADZWDxS2LRttQPKJbgOmRQypFyCC45rcvrGOE6n4GZE2YUzpIcOr9RlEdA==
   dependencies:
     koa "^2.11.0"
     koa-router "^8.0.8"

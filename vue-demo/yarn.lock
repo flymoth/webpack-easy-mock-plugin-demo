@@ -7077,9 +7077,9 @@ shebang-regex@^3.0.0:
   integrity sha1-rhbxZE2HPsrYQ7AwexQzYtTEIXI=
 
 shell-quote@^1.6.1:
-  version "1.7.2"
-  resolved "https://registry.npm.taobao.org/shell-quote/download/shell-quote-1.7.2.tgz#67a7d02c76c9da24f99d20808fcaded0e0e04be2"
-  integrity sha1-Z6fQLHbJ2iT5nSCAj8re0ODgS+I=
+  version "1.7.3"
+  resolved "https://registry.yarnpkg.com/shell-quote/-/shell-quote-1.7.3.tgz#aa40edac170445b9a431e17bb62c0b881b9c4123"
+  integrity sha512-Vpfqwm4EnqGdlsBFNmHhxhElJYrdfcxPThu+ryKS5J8L/fhAwLazFZtq+S+TWZ9ANj2piSQLGj6NQg+lKPmxrw==
 
 signal-exit@^3.0.0, signal-exit@^3.0.2:
   version "3.0.3"
@@ -8186,10 +8186,10 @@ webpack-dev-server@^3.10.3:
     ws "^6.2.1"
     yargs "12.0.5"
 
-webpack-easy-mock-plugin@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.npmjs.org/webpack-easy-mock-plugin/-/webpack-easy-mock-plugin-1.0.0.tgz#4b51ad5fc4f041060af624f4b54fbbc910d6cbbd"
-  integrity sha512-bb1ONG92z+DjaOU6T53sSjiHTycgB2WXTDkm43QNer7mD0N6/dpvlJpbUsWAg9e+mMOoqmEMltkI6f4TA15EQg==
+webpack-easy-mock-plugin@^1.0.4:
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/webpack-easy-mock-plugin/-/webpack-easy-mock-plugin-1.0.6.tgz#04ef96aab51eaa61f9f65d4971aa69342f9cdb45"
+  integrity sha512-bhhJ8No+vIxsFwi7q6LpyC9/ULWLADZWDxS2LRttQPKJbgOmRQypFyCC45rcvrGOE6n4GZE2YUzpIcOr9RlEdA==
   dependencies:
     koa "^2.11.0"
     koa-router "^8.0.8"
